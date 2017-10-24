@@ -1,0 +1,72 @@
+[links]
+https://www.facebook.com/
+https://www.facebook.com/recover/initiate?lwv=110
+#
+/legal/terms
+/about/privacy
+/policies/cookies/
+#
+#
+#
+#
+#
+/pages/create/?ref_type=registration_form
+https://es-la.facebook.com/
+https://fr-fr.facebook.com/
+https://zh-cn.facebook.com/
+https://ar-ar.facebook.com/
+https://pt-br.facebook.com/
+https://it-it.facebook.com/
+https://ko-kr.facebook.com/
+https://de-de.facebook.com/
+https://hi-in.facebook.com/
+https://ja-jp.facebook.com/
+#
+/r.php
+/login/
+https://messenger.com/
+/lite/
+/mobile/?ref=pf
+/find-friends?ref=pf
+/directory/people/
+/directory/pages/
+/places/
+/games/
+/directory/places/
+/directory/celebrities/
+/directory/groups/
+http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATONOxHIGWpEnqYQ-lQIX83tZtfPEtfITNxSPNRCwCK90wkvE5OYIDlRtauP5RgIXQnFejMRxN8hdjRrYfthBw1BO7-pJo64WHOnYo30WkZx1LW-E2tekSrk_KnTiXP8w1oKsbk&s=1
+https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATMKqPUhOxMe000U91dxX_RFPUmJy4-7xnmnfBnwoKYE-V1wp-1xIXwpjQUI1zLLw0DIVtj_qyp9EYNYB-hQQTlL_0w6amb5qwju_ZUH7AfzE8m-SHT9Mk9PUA78Z7Sfkk367yg&s=1
+/facebook
+/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+/pages/create/?ref_type=sitefooter
+https://developers.facebook.com/?ref=pf
+/careers/?ref=pf
+/privacy/explanation
+/policies/cookies/
+https://www.facebook.com/help/568137493302217
+/policies?ref=pf
+/help/?ref=pf
+/settings
+/allactivity?privacy_source=activity_log_top_menu
+
+[HTML]
+<html><head><meta></meta><meta></meta><script></script><style></style><script></script><noscript><meta></meta></noscript><title></title><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><meta></meta><script></script><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><link></link><meta></meta><meta></meta><link></link><link></link><link></link><link></link><link></link><link></link><link></link><script></script><script></script></head><body><div><div><div><div><div><div><div><h1><a><i><u></u></i></a></h1></div><div><form><input></input><table><tr><td><label></label></td><td><label></label></td></tr><tr><td><input></input></td><td><input></input></td><td><label><input></input></label></td></tr><tr><td><div><input></input><input></input></div></td><td><div><a></a></div></td></tr></table><input></input><input></input><input></input><input></input><input></input><input></input><input></input></form></div></div></div></div></div></div><div><div><div><div><style></style><div><div><div><h2><br></br></h2><div><div><img></img></div><div><span></span><span></span></div></div><div><div><img></img></div><div><span></span><span></span></div></div><div><div><img></img></div><div><span></span><span></span></div></div></div><div><h2></h2><div></div><div><div><noscript><div><h2></h2><p></p></div></noscript><div><div><div><div><div></div></div><form><input></input><div><div><div><div><div><input></input><i></i><i></i><i></i><div></div></div></div><div><div><input></input><i></i><i></i><i></i><div></div></div></div></div><div></div></div><div><div><input></input><i></i><i></i><i></i><div></div></div></div><div><div><input></input><i></i><i></i><i></i><div></div></div></div><div><div><input></input><i></i><i></i><i></i><div></div></div></div><div><div></div><div><span><span><select><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option></select><select><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option></select><select><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option></option></select></span></span><a></a><i></i><i></i><i></i><div></div></div></div><div><span><span><input></input><label></label></span><span><input></input><label></label></span></span><i></i><i></i><i></i><div></div></div><div><p><a></a><a></a><a></a></p></div><div><button></button><span><img></img></span></div></div><input></input><input></input><input></input><input></input><input></input><input></input><div><div><h2></h2><div><div><div></div><div><input></input><div></div><div><input></input><input></input><input></input></div><div><div><a></a></div><div><br></br><a></a><a></a></div></div><span></span><div></div><div></div><div><img></img></div><div><label></label><div><input></input></div><a></a><div><div></div></div></div></div></div></div><div><div><div></div><a></a></div><div><div><button></button><span><img></img></span></div></div></div></div></div></form></div><div><a></a></div></div></div></div></div></div></div></div></div></div></div><div><div><ul><li></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a></a></li><li><a><i></i></a></li></ul><div></div><div><table><tbody><tr><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td></tr><tr><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td></tr><tr><td><a><i></i></a></td><td><a></a></td><td><a></a></td><td><a></a></td><td><a></a></td></tr></tbody></table></div><div><div><span></span></div></div></div></div></div></div><script></script><script></script><script></script><script></script><script></script><script></script><script></script><script></script><script></script></body></html>
+
+[sequences]
+Facebook Log In 
+Sign Up FacebookEmail 
+PhonePasswordForgot Connect 
+Facebook. See 
+News Feed. Share 
+Timeline. Find 
+Facebook Search. Sign UpIt’s 
+JavaScript JavaScript-capable 
+Facebook.An Please 
+I Create Account, 
+Terms Data Policy, 
+Cookie Use. You 
+SMS Notifications 
+Facebook AccountSecurity CheckThis 
+Try I 
+CheckThis BackSign UpCreate 
